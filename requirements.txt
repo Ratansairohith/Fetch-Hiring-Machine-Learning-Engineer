@@ -1,0 +1,5 @@
+gradio==3.50.0
+pandas==1.2.4
+Pillow==10.1.0
+plotly==5.17.0
+xgboost==2.0.0
